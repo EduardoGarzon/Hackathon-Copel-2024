@@ -5,5 +5,3 @@ A solução desenvolvida integrou dados do Smart Grid para geração de insights
 Como resultado, desenvolvi competências em modelagem de soluções digitais escaláveis, análise de dados para geração de insights, estratégia de transformação digital, otimização de processos de atendimento, redução de custos operacionais e integração entre sistemas. A experiência fortaleceu habilidades em visão sistêmica de negócio, análise de impacto financeiro, estruturação de propostas técnicas e estratégicas, trabalho em equipe multidisciplinar e apresentação executiva de soluções com foco em eficiência operacional, inovação e melhoria da experiência do cliente (Customer Experience – CX).
 ***
 <img width="1260" height="312" alt="image" src="https://github.com/user-attachments/assets/c54f13bf-dfaa-40e8-960e-240c7dcf4d33" />
-***
-
